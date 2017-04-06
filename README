@@ -1,0 +1,11 @@
+All results uses qctoolkit version 0.0.15
+
+Due to the size of data, only processed output are packed in the python-pickle oformat for analysis. 
+
+For optimization, input/output are generated and analyzed on the fly. No source data are saved.
+
+All the files are hard linked to the actual working directory. Therefore the data path will have to be modified to the proper path of python-pickle file to regenerate the figure.
+
+ky.sam.chang@gmail.com
+
+20170406 KYSC

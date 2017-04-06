@@ -1,0 +1,5 @@
+span:
+  0:
+    type: mutation
+    range: "13, 31"
+    index: "0:128:2"
